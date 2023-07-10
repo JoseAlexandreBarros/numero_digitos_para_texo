@@ -1,0 +1,1 @@
+# numero_digitos_para_texo
